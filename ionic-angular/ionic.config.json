@@ -1,0 +1,8 @@
+{
+  "name": "ash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a0a1e8d3"
+}

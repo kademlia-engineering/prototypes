@@ -1,0 +1,12 @@
+[package]
+name = "wss"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tungstenite = "0.17.3"
+base64 = "0.13.0"
+
+playback_io = { path = "../playback_io", version = "0.1.0" }
